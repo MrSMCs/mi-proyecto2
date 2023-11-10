@@ -1,2 +1,2 @@
 ECHO est� activado.
-Samuel Moreno
+Samuel Moreno Cordero
